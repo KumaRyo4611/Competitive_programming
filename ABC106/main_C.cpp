@@ -1,10 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <string>
-#include <algorithm>
-#include <unordered_map>
-#include <cmath>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int64_t INF = 5'000'000'000'000'000;
